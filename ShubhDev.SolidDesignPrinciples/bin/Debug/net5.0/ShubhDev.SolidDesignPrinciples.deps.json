@@ -1,0 +1,58 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "ShubhDev.SolidDesignPrinciples/1.0.0": {
+        "dependencies": {
+          "ShubhDev.Solid.LiskovSubstitutionPrinciple": "1.0.0",
+          "ShubhDev.Solid.OpenClosedPrinciple": "1.0.0",
+          "ShubhDev.Solid.SingleResponsibilityPrinciple": "1.0.0"
+        },
+        "runtime": {
+          "ShubhDev.SolidDesignPrinciples.dll": {}
+        }
+      },
+      "ShubhDev.Solid.LiskovSubstitutionPrinciple/1.0.0": {
+        "runtime": {
+          "ShubhDev.Solid.LiskovSubstitutionPrinciple.dll": {}
+        }
+      },
+      "ShubhDev.Solid.OpenClosedPrinciple/1.0.0": {
+        "runtime": {
+          "ShubhDev.Solid.OpenClosedPrinciple.dll": {}
+        }
+      },
+      "ShubhDev.Solid.SingleResponsibilityPrinciple/1.0.0": {
+        "runtime": {
+          "ShubhDev.Solid.SingleResponsibilityPrinciple.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "ShubhDev.SolidDesignPrinciples/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "ShubhDev.Solid.LiskovSubstitutionPrinciple/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "ShubhDev.Solid.OpenClosedPrinciple/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "ShubhDev.Solid.SingleResponsibilityPrinciple/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

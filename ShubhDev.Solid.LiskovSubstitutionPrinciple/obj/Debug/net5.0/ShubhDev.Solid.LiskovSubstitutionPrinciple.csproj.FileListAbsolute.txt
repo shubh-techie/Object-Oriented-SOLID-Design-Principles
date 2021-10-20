@@ -1,0 +1,12 @@
+C:\Users\shubh\source\repos\ShubhDev.SolidDesignPrinciples.Solutions\ShubhDev.Solid.LiskovSubstitutionPrinciple\bin\Debug\net5.0\ShubhDev.Solid.LiskovSubstitutionPrinciple.deps.json
+C:\Users\shubh\source\repos\ShubhDev.SolidDesignPrinciples.Solutions\ShubhDev.Solid.LiskovSubstitutionPrinciple\bin\Debug\net5.0\ShubhDev.Solid.LiskovSubstitutionPrinciple.dll
+C:\Users\shubh\source\repos\ShubhDev.SolidDesignPrinciples.Solutions\ShubhDev.Solid.LiskovSubstitutionPrinciple\bin\Debug\net5.0\ref\ShubhDev.Solid.LiskovSubstitutionPrinciple.dll
+C:\Users\shubh\source\repos\ShubhDev.SolidDesignPrinciples.Solutions\ShubhDev.Solid.LiskovSubstitutionPrinciple\bin\Debug\net5.0\ShubhDev.Solid.LiskovSubstitutionPrinciple.pdb
+C:\Users\shubh\source\repos\ShubhDev.SolidDesignPrinciples.Solutions\ShubhDev.Solid.LiskovSubstitutionPrinciple\obj\Debug\net5.0\ShubhDev.Solid.LiskovSubstitutionPrinciple.csprojAssemblyReference.cache
+C:\Users\shubh\source\repos\ShubhDev.SolidDesignPrinciples.Solutions\ShubhDev.Solid.LiskovSubstitutionPrinciple\obj\Debug\net5.0\ShubhDev.Solid.LiskovSubstitutionPrinciple.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\shubh\source\repos\ShubhDev.SolidDesignPrinciples.Solutions\ShubhDev.Solid.LiskovSubstitutionPrinciple\obj\Debug\net5.0\ShubhDev.Solid.LiskovSubstitutionPrinciple.AssemblyInfoInputs.cache
+C:\Users\shubh\source\repos\ShubhDev.SolidDesignPrinciples.Solutions\ShubhDev.Solid.LiskovSubstitutionPrinciple\obj\Debug\net5.0\ShubhDev.Solid.LiskovSubstitutionPrinciple.AssemblyInfo.cs
+C:\Users\shubh\source\repos\ShubhDev.SolidDesignPrinciples.Solutions\ShubhDev.Solid.LiskovSubstitutionPrinciple\obj\Debug\net5.0\ShubhDev.Solid.LiskovSubstitutionPrinciple.csproj.CoreCompileInputs.cache
+C:\Users\shubh\source\repos\ShubhDev.SolidDesignPrinciples.Solutions\ShubhDev.Solid.LiskovSubstitutionPrinciple\obj\Debug\net5.0\ShubhDev.Solid.LiskovSubstitutionPrinciple.dll
+C:\Users\shubh\source\repos\ShubhDev.SolidDesignPrinciples.Solutions\ShubhDev.Solid.LiskovSubstitutionPrinciple\obj\Debug\net5.0\ref\ShubhDev.Solid.LiskovSubstitutionPrinciple.dll
+C:\Users\shubh\source\repos\ShubhDev.SolidDesignPrinciples.Solutions\ShubhDev.Solid.LiskovSubstitutionPrinciple\obj\Debug\net5.0\ShubhDev.Solid.LiskovSubstitutionPrinciple.pdb

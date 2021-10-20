@@ -1,0 +1,12 @@
+C:\Users\shubh\source\repos\ShubhDev.SolidDesignPrinciples.Solutions\ShubhDev.Solid.SingleResponsibilityPrinciple\bin\Debug\net5.0\ShubhDev.Solid.SingleResponsibilityPrinciple.deps.json
+C:\Users\shubh\source\repos\ShubhDev.SolidDesignPrinciples.Solutions\ShubhDev.Solid.SingleResponsibilityPrinciple\bin\Debug\net5.0\ShubhDev.Solid.SingleResponsibilityPrinciple.dll
+C:\Users\shubh\source\repos\ShubhDev.SolidDesignPrinciples.Solutions\ShubhDev.Solid.SingleResponsibilityPrinciple\bin\Debug\net5.0\ref\ShubhDev.Solid.SingleResponsibilityPrinciple.dll
+C:\Users\shubh\source\repos\ShubhDev.SolidDesignPrinciples.Solutions\ShubhDev.Solid.SingleResponsibilityPrinciple\bin\Debug\net5.0\ShubhDev.Solid.SingleResponsibilityPrinciple.pdb
+C:\Users\shubh\source\repos\ShubhDev.SolidDesignPrinciples.Solutions\ShubhDev.Solid.SingleResponsibilityPrinciple\obj\Debug\net5.0\ShubhDev.Solid.SingleResponsibilityPrinciple.csprojAssemblyReference.cache
+C:\Users\shubh\source\repos\ShubhDev.SolidDesignPrinciples.Solutions\ShubhDev.Solid.SingleResponsibilityPrinciple\obj\Debug\net5.0\ShubhDev.Solid.SingleResponsibilityPrinciple.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\shubh\source\repos\ShubhDev.SolidDesignPrinciples.Solutions\ShubhDev.Solid.SingleResponsibilityPrinciple\obj\Debug\net5.0\ShubhDev.Solid.SingleResponsibilityPrinciple.AssemblyInfoInputs.cache
+C:\Users\shubh\source\repos\ShubhDev.SolidDesignPrinciples.Solutions\ShubhDev.Solid.SingleResponsibilityPrinciple\obj\Debug\net5.0\ShubhDev.Solid.SingleResponsibilityPrinciple.AssemblyInfo.cs
+C:\Users\shubh\source\repos\ShubhDev.SolidDesignPrinciples.Solutions\ShubhDev.Solid.SingleResponsibilityPrinciple\obj\Debug\net5.0\ShubhDev.Solid.SingleResponsibilityPrinciple.csproj.CoreCompileInputs.cache
+C:\Users\shubh\source\repos\ShubhDev.SolidDesignPrinciples.Solutions\ShubhDev.Solid.SingleResponsibilityPrinciple\obj\Debug\net5.0\ShubhDev.Solid.SingleResponsibilityPrinciple.dll
+C:\Users\shubh\source\repos\ShubhDev.SolidDesignPrinciples.Solutions\ShubhDev.Solid.SingleResponsibilityPrinciple\obj\Debug\net5.0\ref\ShubhDev.Solid.SingleResponsibilityPrinciple.dll
+C:\Users\shubh\source\repos\ShubhDev.SolidDesignPrinciples.Solutions\ShubhDev.Solid.SingleResponsibilityPrinciple\obj\Debug\net5.0\ShubhDev.Solid.SingleResponsibilityPrinciple.pdb

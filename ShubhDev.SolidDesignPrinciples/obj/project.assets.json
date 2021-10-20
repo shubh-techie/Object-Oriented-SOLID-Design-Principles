@@ -1,0 +1,133 @@
+{
+  "version": 3,
+  "targets": {
+    "net5.0": {
+      "ShubhDev.Solid.LiskovSubstitutionPrinciple/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v5.0",
+        "compile": {
+          "bin/placeholder/ShubhDev.Solid.LiskovSubstitutionPrinciple.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/ShubhDev.Solid.LiskovSubstitutionPrinciple.dll": {}
+        }
+      },
+      "ShubhDev.Solid.OpenClosedPrinciple/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v5.0",
+        "compile": {
+          "bin/placeholder/ShubhDev.Solid.OpenClosedPrinciple.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/ShubhDev.Solid.OpenClosedPrinciple.dll": {}
+        }
+      },
+      "ShubhDev.Solid.SingleResponsibilityPrinciple/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v5.0",
+        "compile": {
+          "bin/placeholder/ShubhDev.Solid.SingleResponsibilityPrinciple.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/ShubhDev.Solid.SingleResponsibilityPrinciple.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "ShubhDev.Solid.LiskovSubstitutionPrinciple/1.0.0": {
+      "type": "project",
+      "path": "../ShubhDev.Solid.LiskovSubstitutionPrinciple/ShubhDev.Solid.LiskovSubstitutionPrinciple.csproj",
+      "msbuildProject": "../ShubhDev.Solid.LiskovSubstitutionPrinciple/ShubhDev.Solid.LiskovSubstitutionPrinciple.csproj"
+    },
+    "ShubhDev.Solid.OpenClosedPrinciple/1.0.0": {
+      "type": "project",
+      "path": "../ShubhDev.Solid.OpenClosedPrinciple/ShubhDev.Solid.OpenClosedPrinciple.csproj",
+      "msbuildProject": "../ShubhDev.Solid.OpenClosedPrinciple/ShubhDev.Solid.OpenClosedPrinciple.csproj"
+    },
+    "ShubhDev.Solid.SingleResponsibilityPrinciple/1.0.0": {
+      "type": "project",
+      "path": "../ShubhDev.Solid.SingleResponsibilityPrinciple/ShubhDev.Solid.SingleResponsibilityPrinciple.csproj",
+      "msbuildProject": "../ShubhDev.Solid.SingleResponsibilityPrinciple/ShubhDev.Solid.SingleResponsibilityPrinciple.csproj"
+    }
+  },
+  "projectFileDependencyGroups": {
+    "net5.0": [
+      "ShubhDev.Solid.LiskovSubstitutionPrinciple >= 1.0.0",
+      "ShubhDev.Solid.OpenClosedPrinciple >= 1.0.0",
+      "ShubhDev.Solid.SingleResponsibilityPrinciple >= 1.0.0"
+    ]
+  },
+  "packageFolders": {
+    "C:\\Users\\shubh\\.nuget\\packages\\": {},
+    "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "C:\\Users\\shubh\\source\\repos\\ShubhDev.SolidDesignPrinciples.Solutions\\ShubhDev.SolidDesignPrinciples\\ShubhDev.SolidDesignPrinciples.csproj",
+      "projectName": "ShubhDev.SolidDesignPrinciples",
+      "projectPath": "C:\\Users\\shubh\\source\\repos\\ShubhDev.SolidDesignPrinciples.Solutions\\ShubhDev.SolidDesignPrinciples\\ShubhDev.SolidDesignPrinciples.csproj",
+      "packagesPath": "C:\\Users\\shubh\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\shubh\\source\\repos\\ShubhDev.SolidDesignPrinciples.Solutions\\ShubhDev.SolidDesignPrinciples\\obj\\",
+      "projectStyle": "PackageReference",
+      "fallbackFolders": [
+        "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\"
+      ],
+      "configFilePaths": [
+        "C:\\Users\\shubh\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+      ],
+      "originalTargetFrameworks": [
+        "net5.0"
+      ],
+      "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "projectReferences": {
+            "C:\\Users\\shubh\\source\\repos\\ShubhDev.SolidDesignPrinciples.Solutions\\ShubhDev.Solid.LiskovSubstitutionPrinciple\\ShubhDev.Solid.LiskovSubstitutionPrinciple.csproj": {
+              "projectPath": "C:\\Users\\shubh\\source\\repos\\ShubhDev.SolidDesignPrinciples.Solutions\\ShubhDev.Solid.LiskovSubstitutionPrinciple\\ShubhDev.Solid.LiskovSubstitutionPrinciple.csproj"
+            },
+            "C:\\Users\\shubh\\source\\repos\\ShubhDev.SolidDesignPrinciples.Solutions\\ShubhDev.Solid.OpenClosedPrinciple\\ShubhDev.Solid.OpenClosedPrinciple.csproj": {
+              "projectPath": "C:\\Users\\shubh\\source\\repos\\ShubhDev.SolidDesignPrinciples.Solutions\\ShubhDev.Solid.OpenClosedPrinciple\\ShubhDev.Solid.OpenClosedPrinciple.csproj"
+            },
+            "C:\\Users\\shubh\\source\\repos\\ShubhDev.SolidDesignPrinciples.Solutions\\ShubhDev.Solid.SingleResponsibilityPrinciple\\ShubhDev.Solid.SingleResponsibilityPrinciple.csproj": {
+              "projectPath": "C:\\Users\\shubh\\source\\repos\\ShubhDev.SolidDesignPrinciples.Solutions\\ShubhDev.Solid.SingleResponsibilityPrinciple\\ShubhDev.Solid.SingleResponsibilityPrinciple.csproj"
+            }
+          }
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      }
+    },
+    "frameworks": {
+      "net5.0": {
+        "targetAlias": "net5.0",
+        "imports": [
+          "net461",
+          "net462",
+          "net47",
+          "net471",
+          "net472",
+          "net48"
+        ],
+        "assetTargetFallback": true,
+        "warn": true,
+        "frameworkReferences": {
+          "Microsoft.NETCore.App": {
+            "privateAssets": "all"
+          }
+        },
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.202\\RuntimeIdentifierGraph.json"
+      }
+    }
+  }
+}

@@ -1,0 +1,14 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>net5.0</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\ShubhDev.Solid.LiskovSubstitutionPrinciple\ShubhDev.Solid.LiskovSubstitutionPrinciple.csproj" />
+    <ProjectReference Include="..\ShubhDev.Solid.OpenClosedPrinciple\ShubhDev.Solid.OpenClosedPrinciple.csproj" />
+    <ProjectReference Include="..\ShubhDev.Solid.SingleResponsibilityPrinciple\ShubhDev.Solid.SingleResponsibilityPrinciple.csproj" />
+  </ItemGroup>
+
+</Project>
