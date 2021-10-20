@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "DA4VG9G+rKSAN8kmOPKefpBITqcBeSUkjMkC7Eo+yi9DPJhl74Y8oRvyUHsrNWpu23cYNsNETXw7q2+YnbNegQ==",
+  "dgSpecHash": "+4nq1V1HNZyMLfHrbhI4cMzm6oAcpshp3Y9pz5fNr45tPv8S4RFS/stpVkVtIzFwEPgcYrGtorDRWm7vG0xyKw==",
   "success": true,
   "projectFilePath": "C:\\Users\\shubh\\source\\repos\\ShubhDev.SolidDesignPrinciples.Solutions\\ShubhDev.Solid.DependencyInversionPrinciple\\ShubhDev.Solid.DependencyInversionPrinciple.csproj",
   "expectedPackageFiles": [],

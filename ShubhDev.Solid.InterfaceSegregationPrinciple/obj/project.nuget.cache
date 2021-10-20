@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "xL99FFr00fLQLZgTCZBq1y6jvozBNbEJrWi+/qQsUobfq2DKbi/tG4yiTwY6SdIFDDCHv2fm/OE7n4s5Rd8I+A==",
+  "dgSpecHash": "myQxZOG2YpeyOZdJpLM1Bq2QszRiTaxIj7G70Vuu86ZHEeqG2BgcQYtgVmMmwCFO9imbwBosQQeAgfPZModErg==",
   "success": true,
   "projectFilePath": "C:\\Users\\shubh\\source\\repos\\ShubhDev.SolidDesignPrinciples.Solutions\\ShubhDev.Solid.InterfaceSegregationPrinciple\\ShubhDev.Solid.InterfaceSegregationPrinciple.csproj",
   "expectedPackageFiles": [],

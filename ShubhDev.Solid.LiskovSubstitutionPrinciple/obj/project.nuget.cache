@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "Nbwckp5r/cN0I9n36vMs2lNKKZdaQuOFQbscDVzVi6VcY0qz6KnhByfem70MaMR+3Dq20yz5mM4S7cTP8HmoHg==",
+  "dgSpecHash": "05spTuor5q3FphLU0e1uVlb0xowCeDZM97JHB2a58WK/5OXG+GVV/suPXQD6RiyMyK1VMUKVSUjmb8xXzkLpxQ==",
   "success": true,
   "projectFilePath": "C:\\Users\\shubh\\source\\repos\\ShubhDev.SolidDesignPrinciples.Solutions\\ShubhDev.Solid.LiskovSubstitutionPrinciple\\ShubhDev.Solid.LiskovSubstitutionPrinciple.csproj",
   "expectedPackageFiles": [],
