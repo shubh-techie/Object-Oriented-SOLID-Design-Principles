@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "ShubhDev.SolidDesignPrinciples.Persistence/1.0.0": {
+        "dependencies": {
+          "ShubhDev.SolidDesignPrinciples.Application": "1.0.0"
+        },
+        "runtime": {
+          "ShubhDev.SolidDesignPrinciples.Persistence.dll": {}
+        }
+      },
+      "ShubhDev.SolidDesignPrinciples.Application/1.0.0": {
+        "runtime": {
+          "ShubhDev.SolidDesignPrinciples.Application.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "ShubhDev.SolidDesignPrinciples.Persistence/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "ShubhDev.SolidDesignPrinciples.Application/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

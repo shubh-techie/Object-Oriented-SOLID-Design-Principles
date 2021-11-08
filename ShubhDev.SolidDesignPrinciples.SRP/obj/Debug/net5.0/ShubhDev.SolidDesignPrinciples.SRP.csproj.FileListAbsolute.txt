@@ -1,0 +1,11 @@
+C:\Users\shubh\source\repos\ShubhDev.SolidDesignPrinciples.Solutions\ShubhDev.SolidDesignPrinciples.SRP\bin\Debug\net5.0\ShubhDev.SolidDesignPrinciples.SRP.deps.json
+C:\Users\shubh\source\repos\ShubhDev.SolidDesignPrinciples.Solutions\ShubhDev.SolidDesignPrinciples.SRP\bin\Debug\net5.0\ShubhDev.SolidDesignPrinciples.SRP.dll
+C:\Users\shubh\source\repos\ShubhDev.SolidDesignPrinciples.Solutions\ShubhDev.SolidDesignPrinciples.SRP\bin\Debug\net5.0\ref\ShubhDev.SolidDesignPrinciples.SRP.dll
+C:\Users\shubh\source\repos\ShubhDev.SolidDesignPrinciples.Solutions\ShubhDev.SolidDesignPrinciples.SRP\bin\Debug\net5.0\ShubhDev.SolidDesignPrinciples.SRP.pdb
+C:\Users\shubh\source\repos\ShubhDev.SolidDesignPrinciples.Solutions\ShubhDev.SolidDesignPrinciples.SRP\obj\Debug\net5.0\ShubhDev.SolidDesignPrinciples.SRP.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\shubh\source\repos\ShubhDev.SolidDesignPrinciples.Solutions\ShubhDev.SolidDesignPrinciples.SRP\obj\Debug\net5.0\ShubhDev.SolidDesignPrinciples.SRP.AssemblyInfoInputs.cache
+C:\Users\shubh\source\repos\ShubhDev.SolidDesignPrinciples.Solutions\ShubhDev.SolidDesignPrinciples.SRP\obj\Debug\net5.0\ShubhDev.SolidDesignPrinciples.SRP.AssemblyInfo.cs
+C:\Users\shubh\source\repos\ShubhDev.SolidDesignPrinciples.Solutions\ShubhDev.SolidDesignPrinciples.SRP\obj\Debug\net5.0\ShubhDev.SolidDesignPrinciples.SRP.csproj.CoreCompileInputs.cache
+C:\Users\shubh\source\repos\ShubhDev.SolidDesignPrinciples.Solutions\ShubhDev.SolidDesignPrinciples.SRP\obj\Debug\net5.0\ShubhDev.SolidDesignPrinciples.SRP.dll
+C:\Users\shubh\source\repos\ShubhDev.SolidDesignPrinciples.Solutions\ShubhDev.SolidDesignPrinciples.SRP\obj\Debug\net5.0\ref\ShubhDev.SolidDesignPrinciples.SRP.dll
+C:\Users\shubh\source\repos\ShubhDev.SolidDesignPrinciples.Solutions\ShubhDev.SolidDesignPrinciples.SRP\obj\Debug\net5.0\ShubhDev.SolidDesignPrinciples.SRP.pdb

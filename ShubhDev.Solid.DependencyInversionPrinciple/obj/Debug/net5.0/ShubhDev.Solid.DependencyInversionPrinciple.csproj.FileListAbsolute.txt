@@ -1,0 +1,11 @@
+C:\Users\shubh\source\repos\ShubhDev.SolidDesignPrinciples.Solutions\ShubhDev.Solid.DependencyInversionPrinciple\bin\Debug\net5.0\ShubhDev.Solid.DependencyInversionPrinciple.deps.json
+C:\Users\shubh\source\repos\ShubhDev.SolidDesignPrinciples.Solutions\ShubhDev.Solid.DependencyInversionPrinciple\bin\Debug\net5.0\ShubhDev.Solid.DependencyInversionPrinciple.dll
+C:\Users\shubh\source\repos\ShubhDev.SolidDesignPrinciples.Solutions\ShubhDev.Solid.DependencyInversionPrinciple\bin\Debug\net5.0\ref\ShubhDev.Solid.DependencyInversionPrinciple.dll
+C:\Users\shubh\source\repos\ShubhDev.SolidDesignPrinciples.Solutions\ShubhDev.Solid.DependencyInversionPrinciple\bin\Debug\net5.0\ShubhDev.Solid.DependencyInversionPrinciple.pdb
+C:\Users\shubh\source\repos\ShubhDev.SolidDesignPrinciples.Solutions\ShubhDev.Solid.DependencyInversionPrinciple\obj\Debug\net5.0\ShubhDev.Solid.DependencyInversionPrinciple.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\shubh\source\repos\ShubhDev.SolidDesignPrinciples.Solutions\ShubhDev.Solid.DependencyInversionPrinciple\obj\Debug\net5.0\ShubhDev.Solid.DependencyInversionPrinciple.AssemblyInfoInputs.cache
+C:\Users\shubh\source\repos\ShubhDev.SolidDesignPrinciples.Solutions\ShubhDev.Solid.DependencyInversionPrinciple\obj\Debug\net5.0\ShubhDev.Solid.DependencyInversionPrinciple.AssemblyInfo.cs
+C:\Users\shubh\source\repos\ShubhDev.SolidDesignPrinciples.Solutions\ShubhDev.Solid.DependencyInversionPrinciple\obj\Debug\net5.0\ShubhDev.Solid.DependencyInversionPrinciple.csproj.CoreCompileInputs.cache
+C:\Users\shubh\source\repos\ShubhDev.SolidDesignPrinciples.Solutions\ShubhDev.Solid.DependencyInversionPrinciple\obj\Debug\net5.0\ShubhDev.Solid.DependencyInversionPrinciple.dll
+C:\Users\shubh\source\repos\ShubhDev.SolidDesignPrinciples.Solutions\ShubhDev.Solid.DependencyInversionPrinciple\obj\Debug\net5.0\ref\ShubhDev.Solid.DependencyInversionPrinciple.dll
+C:\Users\shubh\source\repos\ShubhDev.SolidDesignPrinciples.Solutions\ShubhDev.Solid.DependencyInversionPrinciple\obj\Debug\net5.0\ShubhDev.Solid.DependencyInversionPrinciple.pdb

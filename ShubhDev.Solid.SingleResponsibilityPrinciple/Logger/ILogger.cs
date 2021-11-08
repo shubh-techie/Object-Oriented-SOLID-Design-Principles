@@ -8,7 +8,7 @@ namespace ShubhDev.Solid.SingleResponsibilityPrinciple.Logger
 {
     public interface ILogger
     {
-        Task<bool> Info(string info);
+        Task<bool> InfoAsync(string info);
         Task<bool> Debug(string info);
         Task<bool> Error(string message, Exception ex);
     }

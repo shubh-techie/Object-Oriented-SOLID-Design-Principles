@@ -1,0 +1,11 @@
+C:\Users\shubh\source\repos\ShubhDev.SolidDesignPrinciples.Solutions\ShubhDev.SolidDesignPrinciples.Application\bin\Debug\net5.0\ShubhDev.SolidDesignPrinciples.Application.deps.json
+C:\Users\shubh\source\repos\ShubhDev.SolidDesignPrinciples.Solutions\ShubhDev.SolidDesignPrinciples.Application\bin\Debug\net5.0\ShubhDev.SolidDesignPrinciples.Application.dll
+C:\Users\shubh\source\repos\ShubhDev.SolidDesignPrinciples.Solutions\ShubhDev.SolidDesignPrinciples.Application\bin\Debug\net5.0\ref\ShubhDev.SolidDesignPrinciples.Application.dll
+C:\Users\shubh\source\repos\ShubhDev.SolidDesignPrinciples.Solutions\ShubhDev.SolidDesignPrinciples.Application\bin\Debug\net5.0\ShubhDev.SolidDesignPrinciples.Application.pdb
+C:\Users\shubh\source\repos\ShubhDev.SolidDesignPrinciples.Solutions\ShubhDev.SolidDesignPrinciples.Application\obj\Debug\net5.0\ShubhDev.SolidDesignPrinciples.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\shubh\source\repos\ShubhDev.SolidDesignPrinciples.Solutions\ShubhDev.SolidDesignPrinciples.Application\obj\Debug\net5.0\ShubhDev.SolidDesignPrinciples.Application.AssemblyInfoInputs.cache
+C:\Users\shubh\source\repos\ShubhDev.SolidDesignPrinciples.Solutions\ShubhDev.SolidDesignPrinciples.Application\obj\Debug\net5.0\ShubhDev.SolidDesignPrinciples.Application.AssemblyInfo.cs
+C:\Users\shubh\source\repos\ShubhDev.SolidDesignPrinciples.Solutions\ShubhDev.SolidDesignPrinciples.Application\obj\Debug\net5.0\ShubhDev.SolidDesignPrinciples.Application.csproj.CoreCompileInputs.cache
+C:\Users\shubh\source\repos\ShubhDev.SolidDesignPrinciples.Solutions\ShubhDev.SolidDesignPrinciples.Application\obj\Debug\net5.0\ShubhDev.SolidDesignPrinciples.Application.dll
+C:\Users\shubh\source\repos\ShubhDev.SolidDesignPrinciples.Solutions\ShubhDev.SolidDesignPrinciples.Application\obj\Debug\net5.0\ref\ShubhDev.SolidDesignPrinciples.Application.dll
+C:\Users\shubh\source\repos\ShubhDev.SolidDesignPrinciples.Solutions\ShubhDev.SolidDesignPrinciples.Application\obj\Debug\net5.0\ShubhDev.SolidDesignPrinciples.Application.pdb

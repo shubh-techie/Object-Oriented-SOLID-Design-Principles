@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "gOKufPmPXKlI/9FqTmjla/1y/jmI5sUr0ZWXVXDzhded50+GD7umcTIY5SfauPxe4gokTYDEPPEvSmqlS7ORwg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\shubh\\source\\repos\\ShubhDev.SolidDesignPrinciples.Solutions\\ShubhDev.SolidDesignPrinciples.DataAccess\\ShubhDev.SolidDesignPrinciples.DataAccess.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\shubh\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}

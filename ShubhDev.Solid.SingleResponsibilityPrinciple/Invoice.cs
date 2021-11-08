@@ -21,7 +21,7 @@ namespace ShubhDev.Solid.SingleResponsibilityPrinciple
 
         public async Task<bool> AddVoice()
         {
-            var output = await _logger.Info("Add Invoice method started...");
+            //var output = await _logger.Info("Add Invoice method started...");
             try
             {
                 _email.SendEmail();

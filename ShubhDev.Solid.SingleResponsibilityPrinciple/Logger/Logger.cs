@@ -22,5 +22,10 @@ namespace ShubhDev.Solid.SingleResponsibilityPrinciple.Logger
         {
             return false;
         }
+
+        public Task<bool> InfoAsync(string info)
+        {
+            throw new NotImplementedException();
+        }
     }
 }

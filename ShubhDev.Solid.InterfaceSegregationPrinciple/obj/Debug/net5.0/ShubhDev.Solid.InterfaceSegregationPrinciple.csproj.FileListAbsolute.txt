@@ -1,0 +1,12 @@
+C:\Users\shubh\source\repos\ShubhDev.SolidDesignPrinciples.Solutions\ShubhDev.Solid.InterfaceSegregationPrinciple\bin\Debug\net5.0\ShubhDev.Solid.InterfaceSegregationPrinciple.deps.json
+C:\Users\shubh\source\repos\ShubhDev.SolidDesignPrinciples.Solutions\ShubhDev.Solid.InterfaceSegregationPrinciple\bin\Debug\net5.0\ShubhDev.Solid.InterfaceSegregationPrinciple.dll
+C:\Users\shubh\source\repos\ShubhDev.SolidDesignPrinciples.Solutions\ShubhDev.Solid.InterfaceSegregationPrinciple\bin\Debug\net5.0\ref\ShubhDev.Solid.InterfaceSegregationPrinciple.dll
+C:\Users\shubh\source\repos\ShubhDev.SolidDesignPrinciples.Solutions\ShubhDev.Solid.InterfaceSegregationPrinciple\bin\Debug\net5.0\ShubhDev.Solid.InterfaceSegregationPrinciple.pdb
+C:\Users\shubh\source\repos\ShubhDev.SolidDesignPrinciples.Solutions\ShubhDev.Solid.InterfaceSegregationPrinciple\obj\Debug\net5.0\ShubhDev.Solid.InterfaceSegregationPrinciple.csproj.AssemblyReference.cache
+C:\Users\shubh\source\repos\ShubhDev.SolidDesignPrinciples.Solutions\ShubhDev.Solid.InterfaceSegregationPrinciple\obj\Debug\net5.0\ShubhDev.Solid.InterfaceSegregationPrinciple.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\shubh\source\repos\ShubhDev.SolidDesignPrinciples.Solutions\ShubhDev.Solid.InterfaceSegregationPrinciple\obj\Debug\net5.0\ShubhDev.Solid.InterfaceSegregationPrinciple.AssemblyInfoInputs.cache
+C:\Users\shubh\source\repos\ShubhDev.SolidDesignPrinciples.Solutions\ShubhDev.Solid.InterfaceSegregationPrinciple\obj\Debug\net5.0\ShubhDev.Solid.InterfaceSegregationPrinciple.AssemblyInfo.cs
+C:\Users\shubh\source\repos\ShubhDev.SolidDesignPrinciples.Solutions\ShubhDev.Solid.InterfaceSegregationPrinciple\obj\Debug\net5.0\ShubhDev.Solid.InterfaceSegregationPrinciple.csproj.CoreCompileInputs.cache
+C:\Users\shubh\source\repos\ShubhDev.SolidDesignPrinciples.Solutions\ShubhDev.Solid.InterfaceSegregationPrinciple\obj\Debug\net5.0\ShubhDev.Solid.InterfaceSegregationPrinciple.dll
+C:\Users\shubh\source\repos\ShubhDev.SolidDesignPrinciples.Solutions\ShubhDev.Solid.InterfaceSegregationPrinciple\obj\Debug\net5.0\ref\ShubhDev.Solid.InterfaceSegregationPrinciple.dll
+C:\Users\shubh\source\repos\ShubhDev.SolidDesignPrinciples.Solutions\ShubhDev.Solid.InterfaceSegregationPrinciple\obj\Debug\net5.0\ShubhDev.Solid.InterfaceSegregationPrinciple.pdb
