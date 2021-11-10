@@ -38,7 +38,7 @@ namespace ShubhDev.SolidDesignPrinciples.OCPDemo.RatingSystem
             }
             catch
             {
-                return null;
+                return new UnknownPolicyRater(engine, engine.Logger);
             }
         }
     }
