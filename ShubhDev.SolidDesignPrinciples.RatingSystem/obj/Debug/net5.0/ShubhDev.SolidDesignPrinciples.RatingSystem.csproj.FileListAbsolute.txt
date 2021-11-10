@@ -1,0 +1,17 @@
+C:\Users\shubh\source\repos\ShubhDev.SolidDesignPrinciples.Solutions\ShubhDev.SolidDesignPrinciples.RatingSystem\bin\Debug\net5.0\ShubhDev.SolidDesignPrinciples.RatingSystem.exe
+C:\Users\shubh\source\repos\ShubhDev.SolidDesignPrinciples.Solutions\ShubhDev.SolidDesignPrinciples.RatingSystem\bin\Debug\net5.0\ShubhDev.SolidDesignPrinciples.RatingSystem.deps.json
+C:\Users\shubh\source\repos\ShubhDev.SolidDesignPrinciples.Solutions\ShubhDev.SolidDesignPrinciples.RatingSystem\bin\Debug\net5.0\ShubhDev.SolidDesignPrinciples.RatingSystem.runtimeconfig.json
+C:\Users\shubh\source\repos\ShubhDev.SolidDesignPrinciples.Solutions\ShubhDev.SolidDesignPrinciples.RatingSystem\bin\Debug\net5.0\ShubhDev.SolidDesignPrinciples.RatingSystem.runtimeconfig.dev.json
+C:\Users\shubh\source\repos\ShubhDev.SolidDesignPrinciples.Solutions\ShubhDev.SolidDesignPrinciples.RatingSystem\bin\Debug\net5.0\ShubhDev.SolidDesignPrinciples.RatingSystem.dll
+C:\Users\shubh\source\repos\ShubhDev.SolidDesignPrinciples.Solutions\ShubhDev.SolidDesignPrinciples.RatingSystem\bin\Debug\net5.0\ref\ShubhDev.SolidDesignPrinciples.RatingSystem.dll
+C:\Users\shubh\source\repos\ShubhDev.SolidDesignPrinciples.Solutions\ShubhDev.SolidDesignPrinciples.RatingSystem\bin\Debug\net5.0\ShubhDev.SolidDesignPrinciples.RatingSystem.pdb
+C:\Users\shubh\source\repos\ShubhDev.SolidDesignPrinciples.Solutions\ShubhDev.SolidDesignPrinciples.RatingSystem\bin\Debug\net5.0\Newtonsoft.Json.dll
+C:\Users\shubh\source\repos\ShubhDev.SolidDesignPrinciples.Solutions\ShubhDev.SolidDesignPrinciples.RatingSystem\obj\Debug\net5.0\ShubhDev.SolidDesignPrinciples.RatingSystem.csproj.AssemblyReference.cache
+C:\Users\shubh\source\repos\ShubhDev.SolidDesignPrinciples.Solutions\ShubhDev.SolidDesignPrinciples.RatingSystem\obj\Debug\net5.0\ShubhDev.SolidDesignPrinciples.RatingSystem.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\shubh\source\repos\ShubhDev.SolidDesignPrinciples.Solutions\ShubhDev.SolidDesignPrinciples.RatingSystem\obj\Debug\net5.0\ShubhDev.SolidDesignPrinciples.RatingSystem.AssemblyInfoInputs.cache
+C:\Users\shubh\source\repos\ShubhDev.SolidDesignPrinciples.Solutions\ShubhDev.SolidDesignPrinciples.RatingSystem\obj\Debug\net5.0\ShubhDev.SolidDesignPrinciples.RatingSystem.AssemblyInfo.cs
+C:\Users\shubh\source\repos\ShubhDev.SolidDesignPrinciples.Solutions\ShubhDev.SolidDesignPrinciples.RatingSystem\obj\Debug\net5.0\ShubhDev.SolidDesignPrinciples.RatingSystem.csproj.CoreCompileInputs.cache
+C:\Users\shubh\source\repos\ShubhDev.SolidDesignPrinciples.Solutions\ShubhDev.SolidDesignPrinciples.RatingSystem\obj\Debug\net5.0\ShubhDev.SolidDesignPrinciples.RatingSystem.dll
+C:\Users\shubh\source\repos\ShubhDev.SolidDesignPrinciples.Solutions\ShubhDev.SolidDesignPrinciples.RatingSystem\obj\Debug\net5.0\ref\ShubhDev.SolidDesignPrinciples.RatingSystem.dll
+C:\Users\shubh\source\repos\ShubhDev.SolidDesignPrinciples.Solutions\ShubhDev.SolidDesignPrinciples.RatingSystem\obj\Debug\net5.0\ShubhDev.SolidDesignPrinciples.RatingSystem.pdb
+C:\Users\shubh\source\repos\ShubhDev.SolidDesignPrinciples.Solutions\ShubhDev.SolidDesignPrinciples.RatingSystem\obj\Debug\net5.0\ShubhDev.SolidDesignPrinciples.RatingSystem.genruntimeconfig.cache

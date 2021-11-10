@@ -15,7 +15,7 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ShubhDev.Solid.InterfaceSeg
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ShubhDev.Solid.DependencyInversionPrinciple", "ShubhDev.Solid.DependencyInversionPrinciple\ShubhDev.Solid.DependencyInversionPrinciple.csproj", "{BBED30DD-E651-4F3D-8BB3-91A4FE04F91F}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ShubhDev.SolidDesignPrinciple.PeopleService", "ShubhDev.SolidDesignPrinciple.PeopleService\ShubhDev.SolidDesignPrinciple.PeopleService.csproj", "{9F112DC3-7FE9-4B7A-AE49-F22FDE86DF21}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ShubhDev.SolidDesignPrinciple.PeopleService", "ShubhDev.SolidDesignPrinciple.PeopleService\ShubhDev.SolidDesignPrinciple.PeopleService.csproj", "{9F112DC3-7FE9-4B7A-AE49-F22FDE86DF21}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Src", "Src", "{45091F3C-4727-4C7A-997D-FCB4404C4089}"
 EndProject
@@ -25,23 +25,27 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Core", "Core", "{C4DB47F8-0
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "UI", "UI", "{2271C1DD-9BF8-407C-A3EA-81BDE46B439B}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ShubhDev.SolidDesignPrinciples.Application", "ShubhDev.SolidDesignPrinciples.Application\ShubhDev.SolidDesignPrinciples.Application.csproj", "{F187A769-9CD2-493D-BDB8-0EB03BDA64C0}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ShubhDev.SolidDesignPrinciples.Application", "ShubhDev.SolidDesignPrinciples.Application\ShubhDev.SolidDesignPrinciples.Application.csproj", "{F187A769-9CD2-493D-BDB8-0EB03BDA64C0}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Infrastructure", "Infrastructure", "{E44CF1CD-6C8A-427C-8A1F-508DF7268DF5}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ShubhDev.SolidDesignPrinciples.Persistence", "ShubhDev.SolidDesignPrinciples.Persistence\ShubhDev.SolidDesignPrinciples.Persistence.csproj", "{DB1FB908-582C-45B5-A1DD-D406D5F65CBC}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ShubhDev.SolidDesignPrinciples.Persistence", "ShubhDev.SolidDesignPrinciples.Persistence\ShubhDev.SolidDesignPrinciples.Persistence.csproj", "{DB1FB908-582C-45B5-A1DD-D406D5F65CBC}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ShubhDev.SolidDesignPrinciples.DataAccess", "ShubhDev.SolidDesignPrinciples.DataAccess\ShubhDev.SolidDesignPrinciples.DataAccess.csproj", "{324EB01C-640B-45CD-878E-882EF2607995}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ShubhDev.SolidDesignPrinciples.DataAccess", "ShubhDev.SolidDesignPrinciples.DataAccess\ShubhDev.SolidDesignPrinciples.DataAccess.csproj", "{324EB01C-640B-45CD-878E-882EF2607995}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "UnitTest", "UnitTest", "{B5EB8096-EE7C-4C90-A683-52E67370AFFF}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ShubhDev.SolidDesignPrinciples.PeopleTest", "ShubhDev.SolidDesignPrinciples.PeopleTest\ShubhDev.SolidDesignPrinciples.PeopleTest.csproj", "{9B2FAD4F-E2CD-4686-B054-D0F7A5FDC4B7}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ShubhDev.SolidDesignPrinciples.PeopleTest", "ShubhDev.SolidDesignPrinciples.PeopleTest\ShubhDev.SolidDesignPrinciples.PeopleTest.csproj", "{9B2FAD4F-E2CD-4686-B054-D0F7A5FDC4B7}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ShubhDev.SolidDesignPrinciples.PeopleMsTest", "ShubhDev.SolidDesignPrinciples.PeopleMsTest\ShubhDev.SolidDesignPrinciples.PeopleMsTest.csproj", "{57F18FD7-482E-4E89-9774-8764D495A2CE}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ShubhDev.SolidDesignPrinciples.PeopleMsTest", "ShubhDev.SolidDesignPrinciples.PeopleMsTest\ShubhDev.SolidDesignPrinciples.PeopleMsTest.csproj", "{57F18FD7-482E-4E89-9774-8764D495A2CE}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solid Principle Demo", "Solid Principle Demo", "{CFA1EAE7-4AD7-4D78-B413-E08C44769794}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ShubhDev.SolidDesignPrinciples.SRP", "ShubhDev.SolidDesignPrinciples.SRP\ShubhDev.SolidDesignPrinciples.SRP.csproj", "{3B7D6499-1542-437C-A7FD-A602CFEEC114}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ShubhDev.SolidDesignPrinciples.SRP", "ShubhDev.SolidDesignPrinciples.SRP\ShubhDev.SolidDesignPrinciples.SRP.csproj", "{3B7D6499-1542-437C-A7FD-A602CFEEC114}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ShubhDev.SolidDesignPrinciples.RatingSystem", "ShubhDev.SolidDesignPrinciples.RatingSystem\ShubhDev.SolidDesignPrinciples.RatingSystem.csproj", "{9AB7018E-2EE0-441F-BA6B-807E81D68A30}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ShubhDev.SolidDesignPrinciples.OCPDemo", "ShubhDev.SolidDesignPrinciples.OCPDemo\ShubhDev.SolidDesignPrinciples.OCPDemo.csproj", "{F91F8A79-5869-4163-9672-5B11D9CF6459}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -101,6 +105,14 @@ Global
 		{3B7D6499-1542-437C-A7FD-A602CFEEC114}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{3B7D6499-1542-437C-A7FD-A602CFEEC114}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{3B7D6499-1542-437C-A7FD-A602CFEEC114}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9AB7018E-2EE0-441F-BA6B-807E81D68A30}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9AB7018E-2EE0-441F-BA6B-807E81D68A30}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9AB7018E-2EE0-441F-BA6B-807E81D68A30}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9AB7018E-2EE0-441F-BA6B-807E81D68A30}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F91F8A79-5869-4163-9672-5B11D9CF6459}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F91F8A79-5869-4163-9672-5B11D9CF6459}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F91F8A79-5869-4163-9672-5B11D9CF6459}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F91F8A79-5869-4163-9672-5B11D9CF6459}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -118,6 +130,8 @@ Global
 		{9B2FAD4F-E2CD-4686-B054-D0F7A5FDC4B7} = {B5EB8096-EE7C-4C90-A683-52E67370AFFF}
 		{57F18FD7-482E-4E89-9774-8764D495A2CE} = {B5EB8096-EE7C-4C90-A683-52E67370AFFF}
 		{3B7D6499-1542-437C-A7FD-A602CFEEC114} = {CFA1EAE7-4AD7-4D78-B413-E08C44769794}
+		{9AB7018E-2EE0-441F-BA6B-807E81D68A30} = {CFA1EAE7-4AD7-4D78-B413-E08C44769794}
+		{F91F8A79-5869-4163-9672-5B11D9CF6459} = {CFA1EAE7-4AD7-4D78-B413-E08C44769794}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {986DCBD2-AAAF-475D-AB8A-6B985CE35F3F}
